@@ -1,5 +1,4 @@
-# Virtual Memory Manager
-Command Line (C)
+# Virtual Memory Manager (C)
 
 <img src="./figure.png" style='width: 100%; margin: auto;'>
 Figure: Virtual Memory Manager - Handling Page Faults with Demand Paging.<sup>[1]</sup>
